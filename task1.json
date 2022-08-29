@@ -1,0 +1,602 @@
+[
+    {
+        "Movie name": "The Shawshank Redemption",
+        "Year": "(1994)",
+        "Time": "142 ",
+        "Metascore": "81        "
+    },
+    {
+        "Movie name": "The Godfather",
+        "Year": "(1972)",
+        "Time": "175 ",
+        "Metascore": "100        "
+    },
+    {
+        "Movie name": "The Dark Knight",
+        "Year": "(2008)",
+        "Time": "152 ",
+        "Metascore": "84        "
+    },
+    {
+        "Movie name": "The Lord of the Rings: The Return of the King",
+        "Year": "(2003)",
+        "Time": "201 ",
+        "Metascore": "94        "
+    },
+    {
+        "Movie name": "Schindler's List",
+        "Year": "(1993)",
+        "Time": "195 ",
+        "Metascore": "94        "
+    },
+    {
+        "Movie name": "The Godfather Part II",
+        "Year": "(1974)",
+        "Time": "202 ",
+        "Metascore": "90        "
+    },
+    {
+        "Movie name": "12 Angry Men",
+        "Year": "(1957)",
+        "Time": "96 ",
+        "Metascore": "96        "
+    },
+    {
+        "Movie name": "Jai Bhim",
+        "Year": "(2021)",
+        "Time": "164 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "Pulp Fiction",
+        "Year": "(1994)",
+        "Time": "154 ",
+        "Metascore": "94        "
+    },
+    {
+        "Movie name": "Inception",
+        "Year": "(2010)",
+        "Time": "148 ",
+        "Metascore": "74        "
+    },
+    {
+        "Movie name": "The Lord of the Rings: The Two Towers",
+        "Year": "(2002)",
+        "Time": "179 ",
+        "Metascore": "87        "
+    },
+    {
+        "Movie name": "Fight Club",
+        "Year": "(1999)",
+        "Time": "139 ",
+        "Metascore": "66        "
+    },
+    {
+        "Movie name": "The Lord of the Rings: The Fellowship of the Ring",
+        "Year": "(2001)",
+        "Time": "178 ",
+        "Metascore": "92        "
+    },
+    {
+        "Movie name": "Forrest Gump",
+        "Year": "(1994)",
+        "Time": "142 ",
+        "Metascore": "82        "
+    },
+    {
+        "Movie name": "Il buono, il brutto, il cattivo",
+        "Year": "(1966)",
+        "Time": "161 ",
+        "Metascore": "90        "
+    },
+    {
+        "Movie name": "Soorarai Pottru",
+        "Year": "(2020)",
+        "Time": "153 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "The Matrix",
+        "Year": "(1999)",
+        "Time": "136 ",
+        "Metascore": "73        "
+    },
+    {
+        "Movie name": "Goodfellas",
+        "Year": "(1990)",
+        "Time": "145 ",
+        "Metascore": "90        "
+    },
+    {
+        "Movie name": "The Empire Strikes Back",
+        "Year": "(1980)",
+        "Time": "124 ",
+        "Metascore": "82        "
+    },
+    {
+        "Movie name": "One Flew Over the Cuckoo's Nest",
+        "Year": "(1975)",
+        "Time": "133 ",
+        "Metascore": "84        "
+    },
+    {
+        "Movie name": "Top Gun: Maverick",
+        "Year": "(2022)",
+        "Time": "130 ",
+        "Metascore": "78        "
+    },
+    {
+        "Movie name": "Interstellar",
+        "Year": "(2014)",
+        "Time": "169 ",
+        "Metascore": "74        "
+    },
+    {
+        "Movie name": "Cidade de Deus",
+        "Year": "(2002)",
+        "Time": "130 ",
+        "Metascore": "79        "
+    },
+    {
+        "Movie name": "Sen to Chihiro no kamikakushi",
+        "Year": "(2001)",
+        "Time": "125 ",
+        "Metascore": "96        "
+    },
+    {
+        "Movie name": "Saving Private Ryan",
+        "Year": "(1998)",
+        "Time": "169 ",
+        "Metascore": "91        "
+    },
+    {
+        "Movie name": "The Green Mile",
+        "Year": "(1999)",
+        "Time": "189 ",
+        "Metascore": "61        "
+    },
+    {
+        "Movie name": "La vita \u00e8 bella",
+        "Year": "(1997)",
+        "Time": "116 ",
+        "Metascore": "59        "
+    },
+    {
+        "Movie name": "Se7en",
+        "Year": "(1995)",
+        "Time": "127 ",
+        "Metascore": "65        "
+    },
+    {
+        "Movie name": "Terminator 2: Judgment Day",
+        "Year": "(1991)",
+        "Time": "137 ",
+        "Metascore": "75        "
+    },
+    {
+        "Movie name": "The Silence of the Lambs",
+        "Year": "(1991)",
+        "Time": "118 ",
+        "Metascore": "85        "
+    },
+    {
+        "Movie name": "Star Wars",
+        "Year": "(1977)",
+        "Time": "121 ",
+        "Metascore": "90        "
+    },
+    {
+        "Movie name": "Seppuku",
+        "Year": "(1962)",
+        "Time": "133 ",
+        "Metascore": "85        "
+    },
+    {
+        "Movie name": "Shichinin no samurai",
+        "Year": "(1954)",
+        "Time": "207 ",
+        "Metascore": "98        "
+    },
+    {
+        "Movie name": "It's a Wonderful Life",
+        "Year": "(1946)",
+        "Time": "130 ",
+        "Metascore": "89        "
+    },
+    {
+        "Movie name": "Kaithi",
+        "Year": "(2019)",
+        "Time": "145 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "Asuran",
+        "Year": "(2019)",
+        "Time": "141 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "Vikram",
+        "Year": "(2022)",
+        "Time": "175 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "96",
+        "Year": "(II) (2018)",
+        "Time": "158 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "Gisaengchung",
+        "Year": "(2019)",
+        "Time": "132 ",
+        "Metascore": "96        "
+    },
+    {
+        "Movie name": "Whiplash",
+        "Year": "(2014)",
+        "Time": "106 ",
+        "Metascore": "88        "
+    },
+    {
+        "Movie name": "The Intouchables",
+        "Year": "(2011)",
+        "Time": "112 ",
+        "Metascore": "57        "
+    },
+    {
+        "Movie name": "Sardar Udham",
+        "Year": "(2021)",
+        "Time": "164 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "The Prestige",
+        "Year": "(2006)",
+        "Time": "130 ",
+        "Metascore": "66        "
+    },
+    {
+        "Movie name": "The Departed",
+        "Year": "(2006)",
+        "Time": "151 ",
+        "Metascore": "85        "
+    },
+    {
+        "Movie name": "The Pianist",
+        "Year": "(2002)",
+        "Time": "150 ",
+        "Metascore": "85        "
+    },
+    {
+        "Movie name": "Gladiator",
+        "Year": "(2000)",
+        "Time": "155 ",
+        "Metascore": "67        "
+    },
+    {
+        "Movie name": "American History X",
+        "Year": "(1998)",
+        "Time": "119 ",
+        "Metascore": "62        "
+    },
+    {
+        "Movie name": "The Usual Suspects",
+        "Year": "(1995)",
+        "Time": "106 ",
+        "Metascore": "77        "
+    },
+    {
+        "Movie name": "L\u00e9on",
+        "Year": "(1994)",
+        "Time": "110 ",
+        "Metascore": "64        "
+    },
+    {
+        "Movie name": "The Lion King",
+        "Year": "(1994)",
+        "Time": "88 ",
+        "Metascore": "88        "
+    },
+    {
+        "Movie name": "Nuovo Cinema Paradiso",
+        "Year": "(1988)",
+        "Time": "155 ",
+        "Metascore": "80        "
+    },
+    {
+        "Movie name": "Hotaru no haka",
+        "Year": "(1988)",
+        "Time": "89 ",
+        "Metascore": "94        "
+    },
+    {
+        "Movie name": "Back to the Future",
+        "Year": "(1985)",
+        "Time": "116 ",
+        "Metascore": "87        "
+    },
+    {
+        "Movie name": "Apocalypse Now",
+        "Year": "(1979)",
+        "Time": "147 ",
+        "Metascore": "94        "
+    },
+    {
+        "Movie name": "Alien",
+        "Year": "(1979)",
+        "Time": "117 ",
+        "Metascore": "89        "
+    },
+    {
+        "Movie name": "Once Upon a Time in the West",
+        "Year": "(1968)",
+        "Time": "165 ",
+        "Metascore": "80        "
+    },
+    {
+        "Movie name": "Psycho",
+        "Year": "(1960)",
+        "Time": "109 ",
+        "Metascore": "97        "
+    },
+    {
+        "Movie name": "Rear Window",
+        "Year": "(1954)",
+        "Time": "112 ",
+        "Metascore": "100        "
+    },
+    {
+        "Movie name": "Casablanca",
+        "Year": "(1942)",
+        "Time": "102 ",
+        "Metascore": "100        "
+    },
+    {
+        "Movie name": "Modern Times",
+        "Year": "(1936)",
+        "Time": "87 ",
+        "Metascore": "96        "
+    },
+    {
+        "Movie name": "City Lights",
+        "Year": "(1931)",
+        "Time": "87 ",
+        "Metascore": "99        "
+    },
+    {
+        "Movie name": "Capharna\u00fcm",
+        "Year": "(2018)",
+        "Time": "126 ",
+        "Metascore": "75        "
+    },
+    {
+        "Movie name": "Joker",
+        "Year": "(I) (2019)",
+        "Time": "122 ",
+        "Metascore": "59        "
+    },
+    {
+        "Movie name": "Kimi no na wa.",
+        "Year": "(2016)",
+        "Time": "106 ",
+        "Metascore": "79        "
+    },
+    {
+        "Movie name": "Spider-Man: Into the Spider-Verse",
+        "Year": "(2018)",
+        "Time": "117 ",
+        "Metascore": "87        "
+    },
+    {
+        "Movie name": "Avengers: Endgame",
+        "Year": "(2019)",
+        "Time": "181 ",
+        "Metascore": "78        "
+    },
+    {
+        "Movie name": "Avengers: Infinity War",
+        "Year": "(2018)",
+        "Time": "149 ",
+        "Metascore": "68        "
+    },
+    {
+        "Movie name": "Coco",
+        "Year": "(I) (2017)",
+        "Time": "105 ",
+        "Metascore": "81        "
+    },
+    {
+        "Movie name": "Django Unchained",
+        "Year": "(2012)",
+        "Time": "165 ",
+        "Metascore": "81        "
+    },
+    {
+        "Movie name": "The Dark Knight Rises",
+        "Year": "(2012)",
+        "Time": "164 ",
+        "Metascore": "78        "
+    },
+    {
+        "Movie name": "Drishyam 2",
+        "Year": "(2021)",
+        "Time": "152 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "3 Idiots",
+        "Year": "(2009)",
+        "Time": "170 ",
+        "Metascore": "67        "
+    },
+    {
+        "Movie name": "K.G.F: Chapter 2",
+        "Year": "(2022)",
+        "Time": "168 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "Shershaah",
+        "Year": "(2021)",
+        "Time": "135 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "WALL\u00b7E",
+        "Year": "(2008)",
+        "Time": "98 ",
+        "Metascore": "95        "
+    },
+    {
+        "Movie name": "The Lives of Others",
+        "Year": "(2006)",
+        "Time": "137 ",
+        "Metascore": "89        "
+    },
+    {
+        "Movie name": "Oldeuboi",
+        "Year": "(2003)",
+        "Time": "101 ",
+        "Metascore": "77        "
+    },
+    {
+        "Movie name": "Memento",
+        "Year": "(2000)",
+        "Time": "113 ",
+        "Metascore": "80        "
+    },
+    {
+        "Movie name": "American Beauty",
+        "Year": "(1999)",
+        "Time": "122 ",
+        "Metascore": "84        "
+    },
+    {
+        "Movie name": "Mononoke-hime",
+        "Year": "(1997)",
+        "Time": "134 ",
+        "Metascore": "76        "
+    },
+    {
+        "Movie name": "Braveheart",
+        "Year": "(1995)",
+        "Time": "178 ",
+        "Metascore": "68        "
+    },
+    {
+        "Movie name": "Idi i smotri",
+        "Year": "(1985)",
+        "Time": "142 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "Aliens",
+        "Year": "(1986)",
+        "Time": "137 ",
+        "Metascore": "84        "
+    },
+    {
+        "Movie name": "Amadeus",
+        "Year": "(1984)",
+        "Time": "160 ",
+        "Metascore": "88        "
+    },
+    {
+        "Movie name": "Raiders of the Lost Ark",
+        "Year": "(1981)",
+        "Time": "115 ",
+        "Metascore": "85        "
+    },
+    {
+        "Movie name": "Das Boot",
+        "Year": "(1981)",
+        "Time": "149 ",
+        "Metascore": "86        "
+    },
+    {
+        "Movie name": "The Shining",
+        "Year": "(1980)",
+        "Time": "146 ",
+        "Metascore": "66        "
+    },
+    {
+        "Movie name": "Tengoku to jigoku",
+        "Year": "(1963)",
+        "Time": "143 ",
+        "Metascore": "90        "
+    },
+    {
+        "Movie name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "Year": "(1964)",
+        "Time": "95 ",
+        "Metascore": "97        "
+    },
+    {
+        "Movie name": "Witness for the Prosecution",
+        "Year": "(1957)",
+        "Time": "116 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "Paths of Glory",
+        "Year": "(1957)",
+        "Time": "88 ",
+        "Metascore": "90        "
+    },
+    {
+        "Movie name": "Sunset Blvd.",
+        "Year": "(1950)",
+        "Time": "110 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "The Great Dictator",
+        "Year": "(1940)",
+        "Time": "125 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "Hamilton",
+        "Year": "(2020)",
+        "Time": "160 ",
+        "Metascore": "90        "
+    },
+    {
+        "Movie name": "Ratsasan",
+        "Year": "(2018)",
+        "Time": "170 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "Ayla: The Daughter of War",
+        "Year": "(2017)",
+        "Time": "125 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "Dangal",
+        "Year": "(2016)",
+        "Time": "161 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "Drishyam",
+        "Year": "(2013)",
+        "Time": "160 ",
+        "Metascore": "@"
+    },
+    {
+        "Movie name": "Jagten",
+        "Year": "(2012)",
+        "Time": "115 ",
+        "Metascore": "77        "
+    },
+    {
+        "Movie name": "Jodaeiye Nader az Simin",
+        "Year": "(2011)",
+        "Time": "123 ",
+        "Metascore": "95        "
+    }
+]
